@@ -29,7 +29,7 @@ Lots of things, potentially. But basically: When you ring the cowbell, other peo
 <li>There is probably a newsletter in our future! Things that come here, can potentially go into that amazing future piece of regular literature.
 <li>The best of the best things about Ansible? They could totally make their way into <a href="https://github.com/jdauphant/awesome-ansible">the Awesome Ansible page</a>, if amazing contributors make that happen.
 </ul>
-<h2>FAQ
+<h2>FAQ</h2>
 <p>
 <ul>
 <li><b>Can I hold the cowbell? Polish the cowbell? I want to do things.</b> Sure! Take a look at CONTRIBUTING.md. (You'll have to wait until I write it, though. Just assume until then that you can totally do things. Just start doing them!)
